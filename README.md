@@ -21,4 +21,3 @@ This project showcases my ability to leverage data visualization tools for busin
 
 
 
-![Uploading image.png…]()
