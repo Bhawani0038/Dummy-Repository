@@ -18,3 +18,7 @@ Prepared detailed reports and presentations to communicate findings and recommen
 Highlighted strategic insights to help inform and guide business decisions.
 Ensured that reports were comprehensive and tailored to meet the needs of different stakeholders.
 This project showcases my ability to leverage data visualization tools for business intelligence, offering a robust solution for sales and profit analysis. The dashboards and reports created in this project demonstrate my skills in data analysis, visualization, and effective communication of complex data insights.
+
+
+
+![Uploading image.png…]()
